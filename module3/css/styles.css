@@ -1,0 +1,28 @@
+body {
+    padding-top: 70px;
+}
+
+
+
+#navbar a:hover{
+	background-color: #FFD600;
+}
+
+.col-menu{
+	background-color: #CCCCCC;
+	padding: 5px 10px;
+    min-height: 700px;
+}
+
+
+	.col-md-4{
+		margin-bottom: 20px;
+	}
+
+/* mobile */
+@media (max-width: 767px) {
+	#navbar{
+		background-color: #FAF9D7;
+	}
+
+}
